@@ -13,10 +13,10 @@ As seen during class, there are many requirements on the data we feed to simple 
 
 There are two datasets for this lab, listed in Table 1. Use (only) the Predictors listed.
 
-| Dataset                                                      | Target  | Predictors                    |
-| ------------------------------------------------------------ | ------- | ----------------------------- |
-| [Toluca (Links to an external site.)](https://drive.google.com/file/d/1nsKeli0EU_PluE0D7yOL0BnqEajhg3hv/view?usp=sharing) dataset (courtesy of Paul Intrevado) | lotSize | workHours                     |
-| [Credit (Links to an external site.)](http://faculty.marshall.usc.edu/gareth-james/ISL/Credit.csv) dataset (from Introduction to Statistical Learning with Applications in R) | Limit   | IncomeRatingCardsAgeEducation |
+| Dataset                                                      | Target  | Predictors                            |
+| ------------------------------------------------------------ | ------- | ------------------------------------- |
+| [Toluca (Links to an external site.)](https://drive.google.com/file/d/1nsKeli0EU_PluE0D7yOL0BnqEajhg3hv/view?usp=sharing) dataset (courtesy of Paul Intrevado) | lotSize | workHours                             |
+| [Credit (Links to an external site.)](http://faculty.marshall.usc.edu/gareth-james/ISL/Credit.csv) dataset (from Introduction to Statistical Learning with Applications in R) | Limit   | Income, Rating, Cards, Age, Education |
 
 *Table 1: Datasets, Targets and Predictors*
 
